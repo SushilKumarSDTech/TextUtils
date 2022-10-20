@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SDTechProjects.git/static/css/main.2784506f.css",
+    "main.js": "/SDTechProjects.git/static/js/main.9d7b707a.js",
+    "static/js/787.719ec76d.chunk.js": "/SDTechProjects.git/static/js/787.719ec76d.chunk.js",
+    "index.html": "/SDTechProjects.git/index.html",
+    "main.2784506f.css.map": "/SDTechProjects.git/static/css/main.2784506f.css.map",
+    "main.9d7b707a.js.map": "/SDTechProjects.git/static/js/main.9d7b707a.js.map",
+    "787.719ec76d.chunk.js.map": "/SDTechProjects.git/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2784506f.css",
+    "static/js/main.9d7b707a.js"
+  ]
+}
